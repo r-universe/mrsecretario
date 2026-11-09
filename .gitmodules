@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "weaveCompare"]
+	path = weaveCompare
+	url = https://github.com/cran/weaveCompare
+[submodule "weaveDraft"]
+	path = weaveDraft
+	url = https://github.com/cran/weaveDraft
